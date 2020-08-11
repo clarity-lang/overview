@@ -30,3 +30,10 @@ Note some of the key Clarity language rules and limitations.
 ## Learning Clarity
 
 You can try a [Hello World tutorial](https://github.com/clarity-lang/overview/blob/master/tutorial-hello-world.md) or jump right into the [language reference](https://github.com/clarity-lang/reference/blob/master/reference.md).
+
+## Clarity Tools
+
+Below is a partial list of Clarity tools:
+
+* [Clarity.tools](https://clarity.tools/) a Clarity REPL
+* [ClarityScript](https://github.com/clarity-script) a JavaScript compatible language compilable to Clarity
