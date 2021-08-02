@@ -68,9 +68,9 @@ Tests are located in the `test` folder, let's have a look at the tests associate
 Run the following command:
 
 ```bash
-cat test/hello-world.ts
+cat test/hello-world.ts 
 ```
-
+(Hint: In windows you don't need to type "cat" in the begining. Just type the file name to read its content!)
 Take a few seconds to review the contents of the file. You should ignore the test setup functions and focus on the most relevant parts related to Clarity.
 
 Note that we're importing modules from the `@blockstack/clarity` package:
