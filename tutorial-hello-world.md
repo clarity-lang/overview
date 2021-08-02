@@ -70,6 +70,7 @@ Run the following command:
 ```bash
 cat test/hello-world.ts
 ```
+(Hint: using command "type" instead of "cat" in windows shell if cat doesn't work!)
 
 Take a few seconds to review the contents of the file. You should ignore the test setup functions and focus on the most relevant parts related to Clarity.
 
